@@ -26,7 +26,7 @@ defaults:
   - scope:
       type: pages
     values:
-      layout: /portfolio
+      layout: default
   - scope:
       type: posts
     values:
