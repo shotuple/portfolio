@@ -1,3 +1,7 @@
-- title: 포트폴리오
-  description: 포트폴리오입니다.
-  image: ./demo.png
+- title: 서울시 어린이공원 현황 분석
+  description: 공원 유지 여부를 중심으로 분석하였습니다.
+  image: 1.png
+
+- title: 해양사고 조사 종결보고서 분석
+  description: 해양안전심판원에 접수되는 해양 사고 중 부유물 감김 사고와 기관 손상 사고의 연관을 분석하였습니다.
+  image: 2.png
