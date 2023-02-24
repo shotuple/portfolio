@@ -29,7 +29,7 @@ date: 2023-02-24
 
 - - -
 ## 기여
-- 분석에 이용될 수 있는 정보를 리서치하여 정리
-[관련 정보 요약](https://chocolate-wood-d1b.notion.site/9bc067a22c874e30a3ecb67ade460809)
+- 분석에 이용될 수 있는 정보를 리서치하여 정리  
+[관련 정보 요약](https://chocolate-wood-d1b.notion.site/9bc067a22c874e30a3ecb67ade460809)  
 [분석 결과보고서에 활용될 수 있는 인용 정리](https://chocolate-wood-d1b.notion.site/32c177a919d64a4a9f939cbfd8fb1c0a)
 - QGIS 아이디어 제시, python 코드 작성에도 참여는 하였으나, 훨씬 잘하는 팀원들이 있었기 때문에 그 기여가 적었음.
